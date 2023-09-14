@@ -44,7 +44,8 @@ User-Friendly Interface: To develop an intuitive and user-friendly interface usi
 
 # Screenshot
     
-![N3](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/65ecb498-8da3-41e4-8950-e1327cec4603)
-![N2](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/c5fbc029-5b17-4cf1-a609-ad91cd0b30bb)
-![N1](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/a8614031-4d21-413f-8cb8-7a880f470731)
+![N3](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/6ef4d398-abcd-4b64-a4f3-d31eeef1e5e9)
+![N2](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/f0d13d90-1860-40ec-b472-a58434384b12)
+![N1](https://github.com/AbhiNam08/Super-Market-Billing-System/assets/113370126/16772130-94be-4774-9838-ed7610489170)
+
 
